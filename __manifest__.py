@@ -14,7 +14,7 @@
     'website': 'https://www.mint-system.ch',
     'license': 'AGPL-3',
     'category': 'Technical Settings',
-    'version': '13.0.1.0.5',
+    'version': '12.0.1.0.5',
 
     'depends': [
         'base',
